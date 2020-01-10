@@ -52,5 +52,5 @@ $ npm init
 $ npm publish
 
 
-查看其它命令的使用方法
+
 npm help install。
